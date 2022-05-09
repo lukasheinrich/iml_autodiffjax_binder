@@ -1,0 +1,8 @@
+jax
+jaxlib
+matplotlib
+numpy
+scipy
+theano
+sympy
+pyhf
